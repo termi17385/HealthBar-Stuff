@@ -2,7 +2,7 @@ using System;
 
 using UnityEngine;
 
-namespace GeneralScripts
+namespace HealthBar
 {
 	[Serializable]
 	public class HealthClass
